@@ -11,3 +11,6 @@ this was inspired by the smartphone game Puzzle Quest (and Puzzle Quest 2 and Ge
 War); the second feature is that the pieces to be matched are placed in a hexagonal<br/>
 lattice instead of a square lattice (or a piece of one), which is how the vast<br/>
 majority of match-3 games arrange their game pieces.<br/>
+
+Gameplay image:
+![Alt text](GameplayScreenshot.png)
